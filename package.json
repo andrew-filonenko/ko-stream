@@ -1,6 +1,6 @@
 {
   "name": "ko-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adapt a knockout.js observable to the node.js stream interface.",
   "main": "index.js",
   "scripts": {

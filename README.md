@@ -24,7 +24,6 @@ someOtherStream.pipe(obs.createStream()).pipe(someOtherStream);
 Installation
 ============
 
-```
 With [npm](https://npmjs.org) do:
 
 ```
