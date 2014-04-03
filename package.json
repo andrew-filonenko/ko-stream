@@ -19,5 +19,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/andrew-filonenko/ko-stream/issues"
+  },
+  "dependencies": {
+    "is-equal": "~0.1.0",
+    "through": "~2.3.4"
   }
 }
