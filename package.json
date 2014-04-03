@@ -1,0 +1,23 @@
+{
+  "name": "ko-stream",
+  "version": "0.0.0",
+  "description": "Adapt a knockout.js observable to the node.js stream interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-filonenko/ko-stream"
+  },
+  "keywords": [
+    "knockout",
+    "stream",
+    "streams"
+  ],
+  "author": "Andrei Filonenko",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/andrew-filonenko/ko-stream/issues"
+  }
+}
